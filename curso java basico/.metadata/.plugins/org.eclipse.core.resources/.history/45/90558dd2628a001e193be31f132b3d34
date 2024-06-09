@@ -1,0 +1,11 @@
+package curso_java_basico;
+
+public class Argumentos {
+
+	public static void main(String[] args) {
+		int cursoJava = 0;
+		System.out.println("você digitou " +args[cursoJava]);
+
+	}
+
+}

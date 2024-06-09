@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Tiago\Desktop\Curso Completo Loaine\curso java basico\.metadata\.plugins\org.eclipse.jdt.core
+4071075820.index
+3630984718.index
+1865797976.index
+1716436237.index

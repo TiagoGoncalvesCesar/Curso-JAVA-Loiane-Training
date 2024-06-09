@@ -1,0 +1,13 @@
+package aula11_tipos_primitivos;
+
+public class SequenciaEscape {
+
+	public static void main(String[] args) {
+		//"Hello, world!"
+		
+		System.out.println("\"Hello, world!\"");
+		
+
+	}
+
+}

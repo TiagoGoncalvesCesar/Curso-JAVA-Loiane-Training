@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Tratamento_de_erros_e_exeções&apos; to &apos;8-Tratamento_de_erros_e_exeções&apos;&#x0D;&#x0A;- Original element: &apos;Tratamento_de_erros_e_exeções&apos;&#x0D;&#x0A;- Renamed element: &apos;Tratamento_de_erros_e_exeções&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Tratamento_de_erros_e_exeções&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Tratamento_de_erros_e_exeções" name="8-Tratamento_de_erros_e_exeções" references="true" stamp="1709122992884" version="1.0"/>
+</session>
